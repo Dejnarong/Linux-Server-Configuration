@@ -5,7 +5,7 @@ Udacity - Full Stack Web Developer Nanodegree - Linux Server Configuration Proje
 This project will take a baseline installation of a Linux server, prepare it to host web applications, secure server from a number of attack vectors, install and configure a database server, and deploy one of your existing web applications onto it.
 
 ## Server Information
-* #### IP Address - [13.250.34.14](13.250.34.14)
+* #### IP Address - 13.250.34.14
 * #### Port - 2200
 * #### URL - [Hypebeast Catalog](http://ec2-13-250-34-14.ap-southeast-1.compute.amazonaws.com)
 
